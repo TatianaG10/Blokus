@@ -1,0 +1,9 @@
+#useless repository
+.idea/
+out/
+bin
+bin/*
+groupe-10.iml
+#useless file
+blokus.iml
+groupe-10.iml
